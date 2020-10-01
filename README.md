@@ -6,7 +6,7 @@
 
 ## Você que executar e saber mais sobre?
 Basta clona-lo, logo após abra o projeto atravez do Visual Studio Code.</br>
-Então abra o terinal integrado e digite `yarn install`, esse comando ira baixar todas as dependecias necessarias para que o projeto funcione corretamente.</br>
+Então abra o terminal integrado e digite `yarn install`, esse comando irá baixar todas as dependecias necessarias para que o projeto funcione corretamente.</br>
 Após tudo instalado digite `yarn start`, esse comando abre uma janela nova no seu navegador com a aplicação.<br>
 _obs: para realizar a pesquisa e necessario que digite o seu nome de usúario separado por barra o nome do repositorio desejado "user"/"repository"</br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
